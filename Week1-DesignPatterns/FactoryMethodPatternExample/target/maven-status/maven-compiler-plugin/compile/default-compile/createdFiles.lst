@@ -1,9 +1,0 @@
-com\example\factorymethod\ExcelDocumentFactory.class
-com\example\factorymethod\Document.class
-com\example\factorymethod\DocumentFactory.class
-com\example\factorymethod\WordDocumentFactory.class
-com\example\factorymethod\App.class
-com\example\factorymethod\ExcelDocument.class
-com\example\factorymethod\WordDocument.class
-com\example\factorymethod\PdfDocument.class
-com\example\factorymethod\PdfDocumentFactory.class
